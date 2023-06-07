@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Govind
-- 🏢 I'm a Kubernetes Cloud Cloud Platform Engineer living in Hannover, Germany
+- 🏢 I'm a Kubernetes Cloud Platform Engineer living in Hannover, Germany
 - 🌱 I’m currently learning Open source tech and cloud security
 - 💬 Ping me about platform engineering, kubernetes, devops and parenting tips :) 
 - 📫 Reach me @ http://www.linkedin.com/in/govindkailas
